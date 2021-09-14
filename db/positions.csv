@@ -1,0 +1,28 @@
+1,Diretor executivo,Ninguem
+2,Diretor de operacoes,Diretor executivo
+3,Diretor de tecnologia,Diretor operacoes
+4,Diretor financeiro,Diretor executivo
+5,Diretor de marketing,Diretor financeiro
+6,Programador senior,Diretor de tecnologia
+7,Programador pleno,Diretor de tecnologia
+8,Programador junior,Diretor de tecnologia
+9,DevOps,Diretor de tecnologia
+10,Engenheiro de software,Diretor de tecnologia
+11,Cientista de dados,Diretor de tecnologia
+12,Gerente de rh,Diretor de operacoes
+13,Analista de rh,Gerente de rh
+14,Analista de suporte tecnico,Gerente de rh
+15,Estagiario de rh,Gerente de rh
+16,Gerente financeiro,Diretor financeiro
+17,Supervisor financeiro,Gerente financeiro
+18,Analista financeiro,Supervisor financeiro
+19,Analista fiscal,Supervisor financeiro
+20,Auxiliar financeiro,Analista financeiro
+21,Gerente de marketing,Diretor de marketing
+22,Analista de comunicacao,Gerente de marketing
+23,Coordenador de marketing digital,Gerente de marketing
+24,Designer,Coordenador de marketing digital
+25,Redator,Coordenador de marketing digital
+26,Analista de marketing digital,Coordenador de marketing digital
+27,Assitente de marketing digital,Coordenador de marketing digital
+28,Estagiario de marketing,Analista de marketing digital
